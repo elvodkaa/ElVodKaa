@@ -1,16 +1,29 @@
-### Hi there 👋
+# El Vod Kaa Here :)&nbsp;
 
-<!--
-**elvodkaa/ElVodKaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" alt="PC" src="https://i.imgur.com/8eNCniR.gif" width="190" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://i.imgur.com/YLkhMg5.gif" width="29px"> **Welcome ! مــرحــبـا** &nbsp;<img src="https://i.imgur.com/f6oinNi.gif" width="24px">
+
+
+<br>
+
+<a href="https://github.com/elvodkaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvodkaa&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/elvodkaa">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=elvodkaa&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+
+<a href="https://github.com/elvodkaa/elvodkaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvodkaa&repo=elvodkaa&theme=dark" />
+</a>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=elvodkaa">
+</a>
+<a href="https://github.com/elvodkaa?tab=followers"><img src="https://img.shields.io/github/followers/elvodkaa?label=Followers&style=social" alt="GitHub Badge"></a>
+
