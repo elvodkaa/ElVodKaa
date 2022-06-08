@@ -1,9 +1,6 @@
 # El Vod Kaa Here :)&nbsp;
 
-
-<img align="right" alt="PC" src="https://i.imgur.com/8eNCniR.gif" width="190" />
-
-### <img src="https://i.imgur.com/YLkhMg5.gif" width="29px"> **Welcome ! مــرحــبـا** &nbsp;<img src="https://i.imgur.com/f6oinNi.gif" width="20px">
+### <img src="https://i.imgur.com/YLkhMg5.gif" width="29px" style= "font-family: Tajawal"> **Welcome ! مــرحــبـا** &nbsp;<img src="https://i.imgur.com/f6oinNi.gif" width="20px">
 
 
 <br>
