@@ -1,8 +1,4 @@
 # El Vod Kaa Here :)&nbsp;
-
-### <img src="https://i.imgur.com/YLkhMg5.gif" width="29px" style= "font-family: Tajawal"> **Welcome ! مــرحــبـا** &nbsp;<img src="https://i.imgur.com/f6oinNi.gif" width="20px">
-
-
 <br>
 
 <a href="https://github.com/elvodkaa">
