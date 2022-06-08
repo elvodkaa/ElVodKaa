@@ -10,10 +10,6 @@
 </a>
 
 
-<a href="https://github.com/elvodkaa/elvodkaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elvodkaa&repo=elvodkaa&theme=dark" />
-</a>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=elvodkaa">
